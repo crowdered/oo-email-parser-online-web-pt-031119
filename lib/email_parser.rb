@@ -5,5 +5,5 @@ class EmailParser
     @emails = emails
   end
   
-  
+  def parse(split)
 end
