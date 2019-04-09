@@ -1,3 +1,5 @@
 class EmailParser
-  attr_accessor
+  attr_reader :emails
+  
+  
 end
